@@ -65,7 +65,6 @@ body {
     
 }
 .additionalCards{
-    border: 1px solid white;
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
